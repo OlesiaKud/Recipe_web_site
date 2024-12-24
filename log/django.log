@@ -1,0 +1,13 @@
+Watching for file changes with StatReloader
+INFO 2024-12-24 05:20:37,548 autoreload 17892 624 Watching for file changes with StatReloader
+INFO 2024-12-24 05:20:43,686 basehttp 17892 13696 "GET /about/ HTTP/1.1" 200 8
+INFO 2024-12-24 05:38:31,897 autoreload 1204 19592 Watching for file changes with StatReloader
+INFO 2024-12-24 05:38:50,324 autoreload 1204 19592 D:\study\recipe_website\recipeproject\recipeapp\models.py changed, reloading.
+INFO 2024-12-24 05:38:51,016 autoreload 17048 18488 Watching for file changes with StatReloader
+INFO 2024-12-24 05:39:45,695 autoreload 19972 13776 Watching for file changes with StatReloader
+INFO 2024-12-24 05:40:08,228 autoreload 19972 13776 D:\study\recipe_website\recipeproject\recipeapp\models.py changed, reloading.
+INFO 2024-12-24 05:40:08,524 autoreload 1664 2736 Watching for file changes with StatReloader
+INFO 2024-12-24 05:40:12,158 autoreload 12908 17356 Watching for file changes with StatReloader
+INFO 2024-12-24 05:40:18,728 basehttp 12908 13644 "GET /about/ HTTP/1.1" 200 8
+INFO 2024-12-24 05:40:42,870 autoreload 12908 17356 D:\study\recipe_website\recipeproject\recipeapp\models.py changed, reloading.
+INFO 2024-12-24 05:40:43,179 autoreload 1852 8384 Watching for file changes with StatReloader
